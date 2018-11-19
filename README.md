@@ -67,7 +67,11 @@ python -m unittest discover
 ## List of predictive uncertainty models available:
 - **Joint Confident Classifier** [(safeai/models/joint_confident.py)](https://github.com/EpiSci/SafeAI/blob/master/safeai/models/joint_confident/joint_confident.py)  
 : *Training Confidence-Calibrated Classifier for Detecting Out-of-distribution Samples(2017)*  
-Kimin Lee et al | [arxiv.org/abs](https://arxiv.org/abs/1711.09325) | [Author's repository](https://github.com/alinlab/Confident_classifier)  
+Kimin, Lee. et al. | [arxiv.org/abs](https://arxiv.org/abs/1711.09325) | [Author's repository](https://github.com/alinlab/Confident_classifier)  
+
+- **ODIN**
+: *Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks(2017)*
+Shiyu, Liang. et al. | [arxiv.org/abs](https://arxiv.org/abs/1706.02690) | [Author's repository](https://github.com/facebookresearch/odin)
 
 - List other models in the same form as above
 
